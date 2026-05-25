@@ -71,3 +71,7 @@ export default defineConfig([
   },
 ])
 ```
+
+
+
+1. Navigate to the '/login' page. 2. Wait until the page has fully loaded. 3. Enter 'ilal@mail.co' into the email input field. 4. Enter '123456' into the password input field. 5. Submit the login form. 6. After a successful login, confirm that you are redirected to '/appels-d-offres'. 7. If any popups appear, close all of them. 8. Verify that an offer with the name 'Analyste AI et Données Senior' is present on the page.
